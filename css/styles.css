@@ -12,19 +12,30 @@
 
 .footer {
   background-color: #d1c4e9;
-  margin: 0 auto;
+  margin: 30px auto 0;
   padding: 20px 0px;
 }
 
 .jumbotron {
-  padding:70px 30px 70px 30px;
-  margin:0px auto;
-  background: #9575CD ;
-  color:floralwhite;
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #9575cd;
+  color: floralwhite;
 }
 
-address{
-  font-size:80%;
-  margin:0px;
-  color:#0f0f0f;
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+.history {
+  margin: 40px auto 0;
+}
+
+.mid {
+  margin: 60px auto 0;
+}
+.about {
+  margin-left: 5px;
 }
