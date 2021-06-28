@@ -41,3 +41,7 @@ address {
 .about {
   margin-left: 5px;
 }
+
+.but:hover {
+  text-decoration: none;
+}
